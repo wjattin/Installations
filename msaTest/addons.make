@@ -1,0 +1,4 @@
+ofxKinect
+ofxMSACore
+ofxMSAPhysics
+ofxOpenCv
