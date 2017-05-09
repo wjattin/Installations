@@ -1,0 +1,15 @@
+<group>
+	<Debug>0</Debug>
+	<NearClip>500</NearClip>
+	<FarClip>3837</FarClip>
+	<FlipX>0</FlipX>
+	<FlipY>0</FlipY>
+	<NumDilates>3</NumDilates>
+	<Blur>1</Blur>
+	<Threshold>20</Threshold>
+	<MinBlobSize>4.725</MinBlobSize>
+	<MaxBlobSize>600</MaxBlobSize>
+	<PolySpacing>2</PolySpacing>
+	<ContourSmoothing>1</ContourSmoothing>
+	<NumPixToActivateBox>82</NumPixToActivateBox>
+</group>
